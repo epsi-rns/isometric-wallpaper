@@ -31,9 +31,12 @@ And I keep the original wallpaper here, for backup purpose.
 
 ### Isometric 03
 
-![Isometric 03][isometric-03]
+![Isometric 03 blue bright][isometric-03a]
 
-[isometric-03]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-03.png
+![Isometric 03 red dark][isometric-03b]
+
+[isometric-03a]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-03a.png
+[isometric-03b]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-03b.png
 
 ### Isometric 04
 
@@ -88,3 +91,18 @@ And I keep the original wallpaper here, for backup purpose.
 ![Isometric 12][isometric-12]
 
 [isometric-12]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-12.png
+
+### Isometric 13
+
+![Isometric 13][isometric-13]
+
+[isometric-13]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-13.png
+
+### Isometric 14
+
+![Flat 14][isometric-14a]
+
+![Isometric 14][isometric-14b]
+
+[isometric-14a]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-14a.png
+[isometric-14b]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-14b.png
