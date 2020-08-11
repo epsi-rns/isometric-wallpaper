@@ -124,3 +124,21 @@ And I keep the original wallpaper here, for backup purpose.
 ![Isometric 17][isometric-17]
 
 [isometric-17]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/isometric-17.png
+
+### Paper 01
+
+![Paper 01][paper-01]
+
+[paper-01]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/paper-01.png
+
+### Paper 02
+
+![Paper 02][paper-02]
+
+[paper-02]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/paper-02.png
+
+### Paper 03
+
+![Paper 03][paper-03]
+
+[paper-03]: https://github.com/epsi-rns/isometric-wallpaper/raw/master/preview/paper-03.png
