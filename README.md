@@ -4,7 +4,7 @@ On 9 august 2020, my PC make some noise, so I decide to backup this folder somew
 
 #### Scalable Vector Graphic
 
-This clone wallpaper was made using inkscpae a long time ago.
+This clone wallpaper was made using inkscape a long time ago.
 You may use the wallpaper, and change color and shape.
 Also remove, change or add, text.
 And it is also free to use.
